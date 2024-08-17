@@ -32,4 +32,16 @@ Tsung-Yi Lin, Piotr Dollár, Ross Girshick, Kaiming He, Bharath Hariharan, and S
 Hengshuang Zhao, Jianping Shi, Xiaojuan Qi, Xiaogang Wang, and Jiaya Jia. Pyramid scene parsing network. In Proceedings of the IEEE conference on computer vision and pattern recognition, pages 2881–2890, 2017.
 ![image](https://github.com/user-attachments/assets/3afde5c7-280c-4e36-81e3-2baf870a0e84)
 
+### Results
+![image](https://github.com/user-attachments/assets/2a8cb775-678f-4cfb-b488-858f81d0e0c0)
+![image](https://github.com/user-attachments/assets/f0579a3d-6597-4099-9777-11e0f402b3b4)
+
+### Predictions
+![image](https://github.com/user-attachments/assets/df32967b-0300-44aa-858c-a9b78cbc01dd)
+![image](https://github.com/user-attachments/assets/01d44003-47b9-4305-b58d-39547952d871)
+
+
+
+
+
 
