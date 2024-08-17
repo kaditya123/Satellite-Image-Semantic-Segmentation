@@ -18,15 +18,18 @@ The ISPRS Potsdam dataset consists of very high-resolution true ortho photo (TOP
 
 ## The Overview of Models
 ### 1) LinkNet
-#### Paper: Abhishek Chaurasia and Eugenio Culurciello. Linknet: Exploiting encoder representations for efficient semantic segmentation. In 2017 IEEE visual communications and image processing (VCIP), pages 1–4. IEEE, 2017.
+#### Paper: "https://ieeexplore.ieee.org/document/8305148"
+Abhishek Chaurasia and Eugenio Culurciello. Linknet: Exploiting encoder representations for efficient semantic segmentation. In 2017 IEEE visual communications and image processing (VCIP), pages 1–4. IEEE, 2017.
 ![image](https://github.com/user-attachments/assets/29a4762e-8ca8-476a-8d60-d979b4075628)
 
-### 2) FPNet: 
-#### Paper: Tsung-Yi Lin, Piotr Dollár, Ross Girshick, Kaiming He, Bharath Hariharan, and Serge Belongie. Feature pyramid networks for object detection. In Proceedings of the IEEE conference on computer vision and pattern recognition, pages 2117–2125, 2017.
+### 2) FPNet
+#### Paper: "https://arxiv.org/abs/1612.03144" 
+Tsung-Yi Lin, Piotr Dollár, Ross Girshick, Kaiming He, Bharath Hariharan, and Serge Belongie. Feature pyramid networks for object detection. In Proceedings of the IEEE conference on computer vision and pattern recognition, pages 2117–2125, 2017.
 ![image](https://github.com/user-attachments/assets/5ef730a7-ebf7-47e4-8c68-9194cf0822c0)
 
-### 3) PSPNet:
-#### Paper: Hengshuang Zhao, Jianping Shi, Xiaojuan Qi, Xiaogang Wang, and Jiaya Jia. Pyramid scene parsing network. In Proceedings of the IEEE conference on computer vision and pattern recognition, pages 2881–2890, 2017.
+### 3) PSPNet
+#### Paper: "https://arxiv.org/abs/1612.01105" 
+Hengshuang Zhao, Jianping Shi, Xiaojuan Qi, Xiaogang Wang, and Jiaya Jia. Pyramid scene parsing network. In Proceedings of the IEEE conference on computer vision and pattern recognition, pages 2881–2890, 2017.
 ![image](https://github.com/user-attachments/assets/3afde5c7-280c-4e36-81e3-2baf870a0e84)
 
 
